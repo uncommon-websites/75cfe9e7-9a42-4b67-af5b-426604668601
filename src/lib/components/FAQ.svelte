@@ -7,13 +7,13 @@
   }
 
   const faqs: FAQItem[] = [
-    { question: "Do I have to trust the lead investor with my investment?", answer: "Details about trust and lead investors..." },
-    { question: "How does Echo work?", answer: "Echo works by connecting..." },
-    { question: "I want to share my deals. Can I start a group?", answer: "Yes, you can start a group by..." },
-    { question: "I'm a founder. How do I raise money from Echo?", answer: "Founders can raise money by..." },
-    { question: "Is everyone eligible to use Echo?", answer: "Eligibility depends on..." },
-    { question: "Why do founders raise from Echo groups?", answer: "Founders choose Echo because..." },
-    { question: "Why would someone share their deals with me?", answer: "Sharing deals allows for..." }
+    { question: "What makes Cal Uncommon's protected ETFs different from structured notes?", answer: "Our ETFs use exchange-traded FLEX options instead of OTC derivatives, eliminating counterparty credit risk present in structured notes and annuities. This provides transparency, daily liquidity, and tax-efficient treatment with long-term capital gains." },
+    { question: "How does 100% downside protection work?", answer: "Our Structured Protection ETFs use FLEX options to provide complete downside protection over one-year outcome periods. If the underlying index declines, your principal is protected. You participate in upside gains up to a cap, with tax-deferred growth during the outcome period." },
+    { question: "Who is Cal Uncommon designed for?", answer: "We serve financial advisors at RIAs who need institutional-grade alternative solutions for their clients. Our products are ideal for investors seeking downside protection, especially those nearing or in retirement who can't afford significant portfolio losses." },
+    { question: "What is the minimum investment?", answer: "Our ETFs trade like stocks with no minimum investment beyond the share price. Our Aksia partnership interval funds require just $2,500 minimum with no accreditation needed, democratizing access to institutional private markets." },
+    { question: "How are Cal Uncommon ETFs tax-efficient?", answer: "FLEX options provide long-term capital gains treatment and tax-deferred growth during outcome periods. Unlike structured notes or annuities, our ETF structure offers transparent, exchange-traded vehicles with superior tax efficiency." },
+    { question: "What is Cal Uncommon's track record?", answer: "Founded in 1977, we've pioneered alternative strategies for 48 years. We launched one of the first convertible mutual funds (1985), one of the first liquid alternative funds (1990), and the world's first 100% protected ETFs (2024). We manage $46B+ in AUM with $20B+ in alternatives." },
+    { question: "How can financial advisors access Cal Uncommon products?", answer: "Our ETFs are available through major platforms including Schwab, Fidelity, TD Ameritrade, Morgan Stanley, and E*TRADE. We also work directly with RIAs through model portfolio platforms to help advisors overcome protection complexity." }
   ];
 
   let openIndex: number | null = null;

@@ -3,75 +3,65 @@
     <div class="grid grid-cols-2 md:grid-cols-5 gap-12 mb-24">
       <!-- Col 1 -->
       <div class="flex flex-col gap-4">
-        <h4 class="text-gray-500 mb-2">Investors —</h4>
-        <a href="/" class="hover:text-gray-300">Private group investing</a>
-        <a href="/" class="hover:text-gray-300">Sonar</a>
+        <h4 class="text-gray-500 mb-2">Products —</h4>
+        <a href="/" class="hover:text-gray-300">Structured Protection ETFs</a>
+        <a href="/" class="hover:text-gray-300">Protected Bitcoin ETFs</a>
+        <a href="/" class="hover:text-gray-300">Autocallable Income ETFs</a>
+        <a href="/" class="hover:text-gray-300">Private Markets Access</a>
       </div>
 
       <!-- Col 2 -->
       <div class="flex flex-col gap-4">
-        <h4 class="text-gray-500 mb-2">Founders —</h4>
-        <a href="/" class="hover:text-gray-300">Raise with us</a>
+        <h4 class="text-gray-500 mb-2">For Advisors —</h4>
+        <a href="/" class="hover:text-gray-300">Partner with us</a>
+        <a href="/" class="hover:text-gray-300">Model portfolios</a>
+        <a href="/" class="hover:text-gray-300">Resources</a>
       </div>
 
       <!-- Col 3 -->
       <div class="flex flex-col gap-4">
-        <h4 class="text-gray-500 mb-2">All —</h4>
-        <a href="/" class="hover:text-gray-300">Support</a>
-        <a href="/" class="hover:text-gray-300">Brand kit</a>
+        <h4 class="text-gray-500 mb-2">Company —</h4>
+        <a href="/" class="hover:text-gray-300">About us</a>
+        <a href="/" class="hover:text-gray-300">Our heritage</a>
+        <a href="/" class="hover:text-gray-300">Leadership</a>
+        <a href="/" class="hover:text-gray-300">Careers</a>
       </div>
 
       <!-- Col 4 -->
       <div class="flex flex-col gap-4">
         <h4 class="text-gray-500 mb-2">Legal —</h4>
-        <div class="flex flex-col gap-2">
-          <div class="flex gap-1">
-            <span class="text-gray-400">Echo</span>
-            <a href="/" class="text-gray-600 hover:text-gray-400">Terms</a>
-          </div>
-          <div class="flex gap-1">
-            <span class="text-gray-400">Echo</span>
-            <a href="/" class="text-gray-600 hover:text-gray-400">Privacy</a>
-          </div>
-        </div>
-        <div class="flex flex-col gap-2 mt-2">
-          <div class="flex gap-1">
-            <span class="text-gray-400">Sonar</span>
-            <a href="/" class="text-gray-600 hover:text-gray-400">Terms</a>
-          </div>
-          <div class="flex gap-1">
-            <span class="text-gray-400">Sonar</span>
-            <a href="/" class="text-gray-600 hover:text-gray-400">Privacy</a>
-          </div>
-        </div>
+        <a href="/" class="text-gray-600 hover:text-gray-400">Terms of Use</a>
+        <a href="/" class="text-gray-600 hover:text-gray-400">Privacy Policy</a>
+        <a href="/" class="text-gray-600 hover:text-gray-400">Disclosures</a>
+        <a href="/" class="text-gray-600 hover:text-gray-400">Form CRS</a>
       </div>
 
       <!-- Col 5 (Contact) -->
       <div class="flex flex-col gap-4 items-start md:items-end">
-        <a href="mailto:support@echo.xyz" class="font-medium border-b border-white pb-0.5 hover:opacity-80">support@echo.xyz</a>
-        <a href="/" class="font-medium border-b border-white pb-0.5 hover:opacity-80">@echodotxyz</a>
+        <a href="mailto:info@calamos.com" class="font-medium border-b border-white pb-0.5 hover:opacity-80">info@calamos.com</a>
+        <a href="tel:800-582-6959" class="font-medium border-b border-white pb-0.5 hover:opacity-80">800-582-6959</a>
       </div>
     </div>
 
     <!-- Bottom Legal Text -->
     <div class="border-t border-gray-900 pt-12 text-[11px] text-gray-600 leading-relaxed flex flex-col gap-6">
       <p>
-        Echo's use and transfer to any other app of information received from Google Accounts will adhere to <a href="/" class="underline">Google API Services User Data Policy</a>, including the Limited Use requirements
+        Before investing, carefully consider the fund's investment objectives, risks, charges and expenses. Please see the prospectus and summary prospectus containing this and other information which can be obtained by calling 1-866-363-9219. Read it carefully before investing.
       </p>
       <p>
-        Echo does not provide investment advice to investors, and the information on this page should not be relied upon as research, investment advice or a recommendation of any kind. Investments in startups and early stage businesses are inherently risky and highly illiquid. These types of investments are suitable only for qualified, sophisticated investors who can afford to bear the risk of losing the entirety of their investment capital, and Echo's Services, including access to the platform, are limited to these qualified investors.
+        Investments in alternative strategies are speculative and involve substantial risk, including strategy risks, risk associated with derivatives, and different risks than mutual funds. An investment in the Fund(s) is not appropriate for all investors and is not designed to be a complete investment program. Options-based strategies involve risks. There is no guarantee the Fund will achieve its investment objective. The Fund's use of derivative instruments involves risks different from, or possibly greater than, the risks associated with investing directly in securities and other traditional investments.
       </p>
       <p>
-        The content of this promotion has not been approved by an authorised person within the meaning of the Financial Services and Markets Act 2000. Reliance on this promotion for the purpose of engaging in any investment activity may expose an individual to a significant risk of losing all of the property or other assets invested. The materials on this page are provided for informational and educational purposes only. Nothing on this page shall constitute or imply, and should not be interpreted as, an offer or solicitation of an offer to acquire an interest in any vehicle or other security of any kind.
+        Calamos Advisors LLC, distributor. Member FINRA and SIPC. Calamos Financial Services LLC, distributor. Member FINRA and SIPC. Calamos Investments® and Calamos® are registered trademarks of Calamos Investments LLC. The Fund is distributed by Calamos Advisors LLC. Calamos Advisors LLC is a wholly-owned subsidiary of Calamos Asset Management, Inc.
       </p>
     </div>
 
     <div class="mt-12 flex items-center gap-4 text-xs text-gray-500">
       <div class="flex items-center gap-1 font-bold text-white tracking-wide">
         <div class="w-[2px] h-3 bg-white"></div>
-        ECHO
+        CAL UNCOMMON
       </div>
-      <span>© 2025 All rights reserved</span>
+      <span>© 2025 Calamos Investments LLC. All rights reserved</span>
     </div>
   </div>
 </footer>

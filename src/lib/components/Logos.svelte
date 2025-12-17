@@ -1,36 +1,33 @@
 <section class="bg-[#f5f5f5] border-b border-gray-200">
   <div class="max-w-[1400px] mx-auto px-6 py-16">
+    <div class="text-center mb-8">
+      <p class="text-xs text-gray-400 uppercase tracking-widest">Distributed Through Leading Platforms</p>
+    </div>
     <div class="flex flex-wrap justify-between items-center gap-12 opacity-40 grayscale hover:grayscale-0 transition-all duration-500">
       
-      <!-- DAWN -->
+      <!-- Schwab -->
       <div class="h-8 flex items-center">
-         <span class="font-serif text-3xl font-bold tracking-tight">DAWN</span>
+         <span class="font-sans text-2xl font-bold tracking-tight">SCHWAB</span>
       </div>
 
-      <!-- Ethos -->
+      <!-- Fidelity -->
       <div class="h-8 flex items-center gap-2">
-         <span class="text-4xl font-light leading-none" style="font-family: monospace;">Ξ</span>
-         <span class="font-serif text-3xl">Ethos</span>
+         <span class="font-serif text-3xl font-semibold italic">Fidelity</span>
       </div>
 
-      <!-- WILDCAT -->
+      <!-- TD Ameritrade -->
       <div class="h-8 flex items-center gap-2">
-        <svg viewBox="0 0 24 24" fill="currentColor" class="w-8 h-8">
-            <path d="M12 2L2 12h5v10h10v-10h5L12 2z" /> <!-- Placeholder shape -->
-        </svg>
-        <span class="font-sans text-xl font-bold tracking-widest uppercase">WILDCAT</span>
+        <span class="font-sans text-xl font-bold tracking-wide uppercase">TD Ameritrade</span>
       </div>
 
-      <!-- OneBalance -->
+      <!-- Morgan Stanley -->
       <div class="h-8 flex items-center gap-2">
-        <div class="w-8 h-8 rounded-full border-[6px] border-current"></div>
-        <span class="font-sans text-2xl font-bold tracking-tight">OneBalance</span>
+        <span class="font-serif text-2xl font-bold tracking-tight">Morgan Stanley</span>
       </div>
 
-      <!-- MEGAETH -->
+      <!-- E*TRADE -->
       <div class="h-8 flex items-center">
-        <span class="font-sans text-2xl font-black uppercase tracking-tighter scale-x-110 origin-left">MEGAETH</span>
-        <span class="text-[10px] font-bold ml-1 -mt-4">®</span>
+        <span class="font-sans text-2xl font-black uppercase tracking-tight">E*TRADE</span>
       </div>
 
     </div>
