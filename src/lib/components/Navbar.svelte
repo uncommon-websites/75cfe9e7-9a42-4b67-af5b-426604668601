@@ -3,7 +3,7 @@
     <div class="flex items-center gap-2">
       <div class="font-bold text-lg tracking-wide flex items-center gap-1">
         <div class="w-[3px] h-4 bg-black"></div>
-        CAL UNCOMMON
+        CALAMOS
       </div>
       <span class="text-gray-500 ml-2">Institutional-Grade ETFs</span>
     </div>

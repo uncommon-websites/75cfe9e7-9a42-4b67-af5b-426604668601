@@ -30,7 +30,7 @@
       </p>
       
       <button class="border border-gray-600 text-white px-6 py-3 rounded text-sm font-medium hover:bg-white hover:text-black transition-colors">
-        Partner with Cal Uncommon
+        Partner with Calamos
       </button>
     </div>
   </div>

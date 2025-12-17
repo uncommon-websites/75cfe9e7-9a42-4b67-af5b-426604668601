@@ -5,7 +5,7 @@
 <section class="bg-[#f5f5f5] px-6 py-24">
   <div class="max-w-[1400px] mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12">
     <div class="lg:col-span-3">
-      <SectionLabel label="Why Cal Uncommon" />
+      <SectionLabel label="Why Calamos" />
     </div>
     
     <div class="lg:col-span-9 grid grid-cols-1 md:grid-cols-2 gap-16">
